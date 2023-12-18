@@ -2,7 +2,7 @@
 include("inc/top.php");
 ?>
 
-
+    #them mot so
 <?php if (demhangtronggio() == 0) { ?>
     <h3 class="text-info"><strong>Giỏ hàng đang trống và không có gì liu liu !!!</strong></h3>
     <p><strong>Vui lòng đi chọn sản phẩm ngay ...</strong></p>
