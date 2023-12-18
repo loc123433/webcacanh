@@ -5,7 +5,6 @@ class DANHMUC{
 
     public function getid(){
         return $this->id;
-        # chỉnh sửa123
     }
 
     public function setid($value){
@@ -107,3 +106,4 @@ class DANHMUC{
 
 }
 ?>
+
